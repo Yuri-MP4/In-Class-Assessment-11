@@ -36,6 +36,7 @@ header{
 h1{
   font-size: 2.5rem;
   padding-bottom: 10px;
+  color: #26355C;
 }
 
 h2{
@@ -51,7 +52,7 @@ h2{
 
 main{
   font-family: "Cormorant Garamond";
- background-color: #BDF2CC;
+ background-color: hsla(86, 54.1%, 60.2%, 0.55);
   padding: 16px;
   border-radius: 8px;
   margin-top: 10px;
