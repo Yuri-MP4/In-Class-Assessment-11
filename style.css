@@ -32,6 +32,7 @@ header{
   z-index: 10;
   margin-bottom: 10px;
   background-color: #C9F2EB;
+  border-radius: 8px;
 }
 
 h1{
@@ -45,6 +46,7 @@ h2{
 }
 
   h3{font-size: 1.5rem:
+     padding-bottom: 10px;
     }
 
 main{
@@ -53,14 +55,18 @@ main{
   height: auto;
   z-index: 10;
   background-color: #BDF2CC;
+  padding: 16px;
+  border-radius: 8px;
 }
 
 p{
   padding: 12px 0;
+  text-align: center;
 }
 
 .quote { 
 font-size: 0.8rem;
+font-weight: 700;
 }
 
 
