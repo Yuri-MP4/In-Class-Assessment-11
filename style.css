@@ -1,4 +1,3 @@
-
 .cormorant-garamond-<uniquifier> {
   font-family: "Cormorant Garamond", serif;
   font-optical-sizing: auto;
@@ -27,7 +26,7 @@ html{
 header{
   text-align: center;
   font-family: "Berkshire Swash", serif;
-  padding: 16px
+  padding: 16px;
   margin-bottom: 10px;
   background-color: #C9F2EB;
   border-radius: 8px;
@@ -46,7 +45,6 @@ h2{
 
   h3{
     font-size: 1.5rem:
-     padding-bottom: 10px;
     }
 
 
@@ -69,6 +67,3 @@ font-size: 0.8rem;
 font-weight: 700;
 font-style: italic;
 }
-
-
-
