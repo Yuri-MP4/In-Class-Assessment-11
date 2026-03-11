@@ -20,8 +20,8 @@
 }
 
 html{
-  margin: 25px
-    background-image: linear-gradient(rgba(46, 164, 1, 0.12), rgba(254, 172, 1, 0.18)), url("https://i.pinimg.com/originals/3c/13/04/3c1304121170500d877345397607aa29.jpg");
+  margin: 25px;
+    /*background-image: linear-gradient(rgba(46, 164, 1, 0.12), rgba(254, 172, 1, 0.18)), url("https://i.pinimg.com/originals/3c/13/04/3c1304121170500d877345397607aa29.jpg");*/
 
 .banner {
   text-align:center;
@@ -41,12 +41,12 @@ header{
 
 h1{
   font-size: 2.5rem;
-  padding-bottom: 10px
+  padding-bottom: 10px;
 }
 
 h2{
   font-size: 2.0rem;
-   padding-bottom: 10px 
+   padding-bottom: 10px; 
 }
 
   h3{font-size: 1.5rem:
