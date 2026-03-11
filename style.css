@@ -27,11 +27,8 @@ html{
   
 header{
   text-align: center;
-  width: 550px;
-  height: auto;
   font-family: "Berkshire Swash", serif;
   padding: 16px
-  z-index: 10;
   margin-bottom: 10px;
   background-color: #C9F2EB;
   border-radius: 8px;
@@ -53,17 +50,14 @@ h2{
     }
 
 
-
 main{
-   width: 550px;
   font-family: "Cormorant Garamond";
-  height: auto;
-  z-index: 10;
-  background-color: #BDF2CC;
+ background-color: #BDF2CC;
   padding: 16px;
   border-radius: 8px;
 }
 
+  
 p{
   padding: 12px 0;
   text-align: center;
