@@ -30,6 +30,11 @@ header{
   margin-bottom: 10px;
   background-color: #C9F2EB;
   border-radius: 8px;
+  height: auto;
+  width: 575px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 h1{
@@ -56,6 +61,11 @@ main{
   padding: 16px;
   border-radius: 8px;
   margin-top: 10px;
+  height: auto;
+  width: 575px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
   
